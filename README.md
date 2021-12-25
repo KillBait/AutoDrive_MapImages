@@ -1,6 +1,6 @@
 # AutoDrive_MapImages
 
-A Collection of map images ready to use for the AutoDrive Editor
+A Collection of map images ready to use for the [AutoDrive Editor](https://github.com/KillBait/AutoDrive_Course_Editor)
 
 # Submissions
 Do you have any map images that are not on the repository?, please consider doing a pull request to add to
