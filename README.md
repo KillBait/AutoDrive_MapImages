@@ -3,7 +3,7 @@
 A Collection of map images ready to use for the [AutoDrive Editor](https://github.com/KillBait/AutoDrive_Course_Editor)
 
 # Map Image Requests
-Not used GitHub or any sort of version control system before?... You can submit a map image request in the discussion section.
+Not used GitHub or any sort of version control system before?... You can submit a map image request in the [Discussions](https://github.com/KillBait/AutoDrive_MapImages/discussions) section.
 
 # Submissions
 Do you have any map images that are not on the repository?, please consider doing a pull request to add to
